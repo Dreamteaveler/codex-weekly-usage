@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.venv/
+Backup/
+*.log
+weekly-monitor-status.json
+weekly-monitor.stop
+assets/
+*.lnk
+*.png
